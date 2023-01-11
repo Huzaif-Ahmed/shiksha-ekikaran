@@ -1,0 +1,15 @@
+{
+  "name": "shiksha_ekikaran",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.html",
+  "scripts": {
+    "test": "hi",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
